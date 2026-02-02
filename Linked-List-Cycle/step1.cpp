@@ -1,3 +1,4 @@
+```cpp
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
@@ -16,3 +17,5 @@ public:
         
     }
 };
+//これくらいの長さだと完全にわかってなくても何となくで書けてしまうので気を付ける
+```
